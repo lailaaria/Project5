@@ -18,7 +18,7 @@ class Main {
 
     System.out.println("You spent an average of $" + aveSpendings + " the last 3 months.");
 
-    
+    regulateMoney(aveSpendings);
 
   }
 
